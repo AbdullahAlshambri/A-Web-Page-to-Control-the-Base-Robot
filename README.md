@@ -1,7 +1,7 @@
 # A Web Page to Control a Robotic Hand
 ![concept robot](https://github.com/AbdullahAlshambri/webcontrollingRobotbase/blob/main/ConceptRobot.jpeg)
 
-This repository contains a responsive web page to control five servo motors implemented in a robotic arm via the web. Another page is included to receive the inputs from the control page.
+This repository contains a responsive web page to control five servo motors and DC motors implemented in a base robot via the web. Another page is included to receive the inputs from the control page.
 
 ## Repository Content 
 * The control page code. 
